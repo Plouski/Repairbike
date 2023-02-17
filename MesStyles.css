@@ -1,0 +1,97 @@
+h1 {
+  text-align: center;
+  text-shadow:   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000,
+     1px 1px 2px #141414,
+     1px 1px 3px #141414,
+     1px 1px 5px #141414,
+     1px 1px 7px #141414,
+     1px 1px 10px #141414,
+     1px 1px 12px #141414,
+     1px 1px 18px #141414;color:#fff;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  text-shadow:   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000,
+     1px 1px 2px #141414,
+     1px 1px 3px #141414,
+     1px 1px 5px #141414,
+     1px 1px 7px #141414,
+     1px 1px 10px #141414,
+     1px 1px 12px #141414,
+     1px 1px 18px #141414;color:#fff;
+}
+
+.prenom-nom{
+  text-align: right;
+  color: #9d9d9d;
+  font-size: 1.1em;
+  padding-right: 13px;
+  padding-top: 3px;
+}
+
+.err_1{
+  text-align: center;
+  color: black;
+  background-color: red;
+  padding:3px;
+  margin: 10px 25% 10px 25%;
+}
+
+.err_2{
+  text-align: center;
+  color: black;
+  padding: 3px;
+  background-color: orange;
+  margin: 10px 25% 10px 25%;
+}
+
+.err_3{
+  text-align: center;
+  color: black;
+  background-color: yellow;
+  padding : 3px;
+  margin: 10px 25% 10px 25%;
+}
+video#bgvid {
+  position: fixed; right: 0; bottom: 0;
+  min-width: 100%; min-height: 100%;
+  width: auto; height: auto; z-index: -100;
+  background-size: cover;
+}
+
+#bloc_page{
+background: url('img/video.mp4');
+
+}
+input, table{
+  opacity: 0.8;
+}
+form , div.card, button{
+  text-shadow:   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000,
+     1px 1px 2px #141414,
+     1px 1px 3px #141414,
+     1px 1px 5px #141414,
+     1px 1px 7px #141414,
+     1px 1px 10px #141414,
+     1px 1px 12px #141414,
+     1px 1px 18px #141414;color:#fff;
+}
+
+img {
+  width: 175px;
+	height: 175px;
+}
