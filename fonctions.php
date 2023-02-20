@@ -7,7 +7,7 @@ function connexionBD(){
   $serveur='localhost';
   $dbname='repairbike';
   $dbuser='admin';
-  $dbpass='admin';
+  $dbpass= //Mettre votre mdp;
   try {
   $bdd = new PDO("mysql:host=$serveur;dbname=$dbname",$dbuser,$dbpass);
   $bdd -> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
